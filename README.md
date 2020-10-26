@@ -5,7 +5,7 @@
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante a **[Curso Web-Moderno JS 2020](https://www.cod3r.com.br/courses/web-moderno)**, realizada pela **[@Cod3r](https://www.cod3r.com.br/)**!! :rocket::rocket:
+Projeto desenvolvido durante o **[Curso Web-Moderno JS 2020](https://www.cod3r.com.br/courses/web-moderno)**, realizada pela **[@Cod3r](https://www.cod3r.com.br/)**!! :rocket::rocket:
 
 <p>Tem o Objetivo de criar o jogo Flappy Bird.</p>
 
